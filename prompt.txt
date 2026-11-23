@@ -1,0 +1,7 @@
+Build the make.fun entry "Real-Life Patch Notes: The Comedy Changelog".
+Write a Python program (main.py, Python 3.13, no network, no randomness)
+that writes exactly one line to /output/entry.txt: a software patch note
+for a bug in real life or human biology, in the terse register of a real
+release note, at most 160 characters, UTF-8, ending with a newline.
+The entry text is: v2.4.1: fixed a bug where the knee predicted rain with
+98% accuracy but could not detect stairs. Stairs now supported.
